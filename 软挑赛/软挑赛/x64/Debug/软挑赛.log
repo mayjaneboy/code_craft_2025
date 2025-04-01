@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(3,9): warning C4068: 未知的杂注“GCC”
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(93,9): error C2148: 数组的总大小不得超过 0x7fffffff 字节
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(890,44): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(890,40): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(1159,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(1160,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(1170,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(1204,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(1223,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(1251,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\mayja\Documents\2025-code-craft-preliminary\软挑赛\main.cpp(1269,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
